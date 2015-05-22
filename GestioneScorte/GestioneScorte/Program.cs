@@ -12,6 +12,7 @@ namespace GestioneScorte
     {
         public double A1, A2, H1, H2, P, D, rapporto;
         //111111111
+        //222222222
         public void inserimento()
         {
             //A1= costo di setup per lotto di produzione [$/setup]-->costo del Vendor
