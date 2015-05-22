@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace GestioneScorte
 {
-    //popopopoppop
-    ///ciao
+  
     //CLASSE DATI INPUT
     class Dati_Input
     {
         public double A1, A2, H1, H2, P, D, rapporto;
-
+         //popolllllololol
         public void inserimento()
         {
             //A1= costo di setup per lotto di produzione [$/setup]-->costo del Vendor
