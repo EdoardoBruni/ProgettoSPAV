@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 namespace GestioneScorte
 {
     
+    
+    
+    ///ultima modifica e poi vado a prendere il treno
+    
     //CLASSE DATI INPUT
     class Dati_Input
     {
