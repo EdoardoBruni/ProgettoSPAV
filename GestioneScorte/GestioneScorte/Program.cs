@@ -76,6 +76,11 @@ namespace GestioneScorte
             }
         }
     }
+    
+    
+    
+    //// ahahah ti ho fregato ;)
+    
     //CLASSE METODO GOYAL
     class Goyal
     {
