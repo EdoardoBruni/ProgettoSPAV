@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace GestioneScorte
 {
+    ///ciao
     //CLASSE DATI INPUT
     class Dati_Input
     {
